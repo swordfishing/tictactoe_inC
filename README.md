@@ -7,6 +7,7 @@ Below are Logs of Updates.
 - [x] Out of Moves Checker
 - [x] Win Checker
 - [x] Basic I/O
+- [x] Illegal Move Checker
 
 **Awaiting**
-- [] Illegal Move Checker
+
